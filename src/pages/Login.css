@@ -1,0 +1,14 @@
+.login-container {
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.login-card {
+    margin-top: 28px;
+}
+
+.login-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}

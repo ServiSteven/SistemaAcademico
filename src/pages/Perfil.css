@@ -1,0 +1,16 @@
+.perfil-card {
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.perfil-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.perfil-list li {
+    margin-bottom: 8px;
+    font-size: 15px;
+}

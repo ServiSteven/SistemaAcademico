@@ -1,0 +1,39 @@
+.nombre {
+    font-weight: 700;
+}
+
+.rol {
+    font-size: 12px;
+    opacity: 0.85;
+    background-color: #fff;
+    color: #004999;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-top: 2px;
+    display: inline-block;
+}
+
+
+.btn {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+    background-color: #004999;
+}
+
+.btn.secondary {
+    background-color: #eee;
+    color: #333;
+}
+
+.btn.secondary:hover {
+    background-color: #ddd;
+}
